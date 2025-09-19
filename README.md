@@ -34,9 +34,11 @@ Protein-Model-Quality-Assessment-Guide-for-Beginners
 |           | QMEAN           |                     | [37] |
 |           | ProSA           |                     | [38][39] |
 
-#### 指标梳理
-
-
+### 指标梳理
+<div align=center>
+<img width="1000" src="/docs/images/0_0.png"/>
+</div>
+<div align=center>蛋白质结构模型质量评估指标表</div>
 <br>
 
 ## 参考引用
